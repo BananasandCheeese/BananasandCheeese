@@ -2,7 +2,6 @@
 - 👀 I’m interested in bananas and cheese
 - 🌱 I’m currently learning bananas and cheese
 - 💞️ I’m looking to collaborate on bananas and cheese
-- 📫 How to reach me throw a banana at me
 
 <!---
 BananasandCheeese/BananasandCheeese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
